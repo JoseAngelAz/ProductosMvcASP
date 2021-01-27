@@ -1,0 +1,2 @@
+<b style='color:blue'>Id:</b>1<br><b style='color:blue'>Producto:</b>tomate<hr><b>Precio: </b>5<b>Descripcion:</b>Tomates de alta calidad
+<b style='color:blue'>Id:</b>1<br><b style='color:blue'>Producto:</b>tomate<hr><b>Precio: </b>5<b>Descripcion:</b>Tomate de alta calidad
